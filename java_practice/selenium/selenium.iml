@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-java-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/failureaccess-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-api-events-1.25.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-buffer-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-safari-driver-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/jcommander-1.82.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/auto-service-annotations-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-remote-driver-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/auto-common-1.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-common-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-json-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-exporter-logging-1.25.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-sdk-extension-autoconfigure-spi-1.25.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-handler-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-codec-http-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-ie-driver-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/checker-qual-3.12.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-transport-classes-kqueue-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/j2objc-annotations-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-transport-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/error_prone_annotations-2.11.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/jakarta.activation-1.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-api-1.25.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/slf4j-api-2.0.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-sdk-common-1.25.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-manager-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-codec-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-resolver-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-sdk-extension-autoconfigure-1.25.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-codec-socks-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-context-1.25.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-api-logs-1.25.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/failsafe-3.3.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/async-http-client-2.12.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-transport-native-unix-common-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-http-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/async-http-client-netty-utils-2.12.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-sdk-1.25.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-reactive-streams-2.0.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-handler-proxy-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-support-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/guava-31.1-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/byte-buddy-1.14.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-sdk-logs-1.25.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/auto-service-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/netty-transport-classes-epoll-4.1.91.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/jtoml-2.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/jsr305-3.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-firefox-driver-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-edge-driver-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-devtools-v113-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-devtools-v112-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-devtools-v111-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-devtools-v85-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-chromium-driver-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-chrome-driver-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-api-4.9.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/reactive-streams-1.0.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-semconv-1.25.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-sdk-metrics-1.25.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/opentelemetry-sdk-trace-1.25.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-manager-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-json-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-remote-driver-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-safari-driver-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-ie-driver-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-support-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-http-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-firefox-driver-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-edge-driver-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-devtools-v113-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-devtools-v112-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-devtools-v111-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-devtools-v85-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-chromium-driver-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-chrome-driver-4.9.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../sel1/jar/selenium-api-4.9.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
